@@ -1,0 +1,9 @@
+{
+  "jwtPrivateKey": "foodieTestingPrivateKey",
+  "database": {
+    "type": "mysql",
+    "name": "foodey",
+    "user": "root",
+    "password": "0954"
+  }
+}
